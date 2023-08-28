@@ -15,26 +15,6 @@ pip install -r requirements.txt
 
 ## Docs
 
-Project tree:
-
-defi_response
-    |---- app
-            |---- data
-                    |---- prices.csv (does not load on git)
-            |---- src
-                    |---- use_cases.py
-            |---- tests
-                    |---- __init__.py
-                    |---- all_test.py
-            |---- utils
-                    |---- __init__.py
-                    |---- functions.py
-            |---- __init__.py
-    |---- main.py
-    |---- .gitignore
-    |---- README.md
-    |---- requirements.txt
-
 
 `data` folder contains csv file with stock information
 `src` folder contains source code. In our example there you can find use cases for our tasks
